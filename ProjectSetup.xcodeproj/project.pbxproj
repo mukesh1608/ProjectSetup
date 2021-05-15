@@ -238,6 +238,7 @@
 		B0E05F8D265008AF004DCE1D /* Infrastructure */ = {
 			isa = PBXGroup;
 			children = (
+				B0E05F9B26500C25004DCE1D /* Logger */,
 				B0E05F8E265008D9004DCE1D /* WebAPI */,
 			);
 			path = Infrastructure;
@@ -246,7 +247,6 @@
 		B0E05F8E265008D9004DCE1D /* WebAPI */ = {
 			isa = PBXGroup;
 			children = (
-				B0E05F9B26500C25004DCE1D /* Logger */,
 				B0E05F8F265008E6004DCE1D /* ApiCoreService */,
 				B0E05F96265009DD004DCE1D /* BaseApiService.swift */,
 				B0E05FDD2650128E004DCE1D /* LoginService.swift */,
